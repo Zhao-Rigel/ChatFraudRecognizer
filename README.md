@@ -19,12 +19,12 @@ bert+cnn+rnn:
 
 wobert+cnn:
 
-![image[(result_photo/wobert+cnn.png)
+![image](result_photo/wobert+cnn.png)
 
 wobert+rnn:
 
-![image[(result_photo/wobert+rnn.png)
+![image](result_photo/wobert+rnn.png)
 
 wobert+cnn+rnn:
 
-![image[(result_photo/wobert+cnn+rnn.png)
+![image](result_photo/wobert+cnn+rnn.png)
